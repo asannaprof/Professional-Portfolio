@@ -20,10 +20,6 @@ This project required me to demonstrate competencies in project planning, conten
 
 ## 
 
-## 
-
-## 
-
 ## 2\. Requirements & Deliverables
 
 The program provided broad requirements but left the specific structure and deliverables largely to the student. I therefore translated those requirements into a concrete set of deliverables, deadlines, and review milestones. My final project was a collection of short interconnected vignettes that depict various reactions to school shootings in the United States.
