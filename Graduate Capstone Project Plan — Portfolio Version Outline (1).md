@@ -2,8 +2,6 @@
 
 ### Portfolio Artifact Outline
 
----
-
 ## 1\. Project Overview
 
 ### Purpose
@@ -17,8 +15,6 @@ This project presented an opportunity to demonstrate the skills and competencies
 My final product took the form of a novel composed of short vignettes representing the numerous aspects that I researched. The style of stories varied from satirical critiques of the absurd and nonsensical responses to mass violence incidents as well as earnest and introspective pieces about the ways individuals cope with grief and loss. 
 
 This project required me to demonstrate competencies in project planning, content organization, research planning, as well as production scheduling and iterative revision. I started with a broad open ended project and created a structured production plan, and I executed this plan by meeting a defined production schedule and by incorporating feedback from my advisor.
-
-## 
 
 ## 2\. Requirements & Deliverables
 
