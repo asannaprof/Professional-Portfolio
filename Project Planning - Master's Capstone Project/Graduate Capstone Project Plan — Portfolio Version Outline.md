@@ -1,44 +1,46 @@
 # Table of Contents
 
-[**Graduate Capstone Project Plan**](#graduate-capstone-project-plan)
+# Table of Contents
 
-[Portfolio Artifact Outline](#portfolio-artifact-outline)
+- [Graduate Capstone Project Plan](#graduate-capstone-project-plan)
 
-[1\. Project Overview](#1.-project-overview)
-
-[Purpose](#purpose)
-
-[2\. **Requirements and Deliverables**](#2.-requirements-and-deliverables)
-
-[3\. **Content Architecture and Work Breakdown**](#3.-content-architecture-and-work-breakdown)
-
-[Satirical Stories \- Outlines/Brief Ideas](#satirical-stories---outlines/brief-ideas)
-
-[Earnest Stories \- Outlines/Brief Ideas](#earnest-stories---outlines/brief-ideas)
-
-[Culminating Epilogue](#culminating-epilogue)
-
-[4\. Research Plan](#4.-research-plan)
-
-[Primary Historical Research](#primary-historical-research)
-
-[Literary Research / Models of Writing Style](#literary-research-/-models-of-writing-style)
-
-[5\. 16-Week Production Schedule](#5.-16-week-production-schedule)
-
-[6\. Skills Demonstrated](#6.-skills-demonstrated)
-
-[Requirements Analysis](#requirements-analysis)
-
-[Project Scoping](#project-scoping)
-
-[Information Architecture](#information-architecture)
-
-[Research Planning](#research-planning)
-
-[Workflow Design](#workflow-design)
-
-[Iterative Review & Revision](#iterative-review-&-revision)
+  - [Portfolio Artifact Outline](#portfolio-artifact-outline)
+ 
+    - [1. Project Overview](#1-project-overview)
+    
+      - [Purpose](#purpose)
+    
+    - [2. Requirements & Deliverables](#2-requirements--deliverables)
+   
+    - [3. Content Architecture / Work Breakdown](#3-content-architecture--work-breakdown)
+    
+      - [Satirical Stories — Outlines/Brief Ideas](#satirical-stories--outlinesbrief-ideas)
+    
+      - [Earnest Stories — Outlines/Brief Ideas](#earnest-stories--outlinesbrief-ideas)
+    
+      - [Culminating Epilogue](#culminating-epilogue)
+     
+    - [4. Research Plan](#4-research-plan)
+  
+      - [Primary Historical Research](#primary-historical-research)
+    
+      - [Literary Research / Models of Writing Style](#literary-research--models-of-writing-style)
+  
+    - [5. 16-Week Production Schedule](#5-16-week-production-schedule)
+  
+    - [6. Skills Demonstrated](#6-skills-demonstrated)
+  
+      - [Requirements Analysis](#requirements-analysis)
+    
+      - [Project Scoping](#project-scoping)
+    
+      - [Information Architecture](#information-architecture)
+    
+      - [Research Planning](#research-planning)
+    
+      - [Workflow Design](#workflow-design)
+    
+      - [Iterative Review & Revision](#iterative-review--revision)
 
 # 
 
