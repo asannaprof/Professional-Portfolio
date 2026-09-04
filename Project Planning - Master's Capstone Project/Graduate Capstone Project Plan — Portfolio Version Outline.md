@@ -10,13 +10,13 @@
     
       - [Purpose](#purpose)
     
-    - [2. Requirements & Deliverables](#2-requirements--deliverables)
+    - [2. Requirements and Deliverables](#2-requirements-and-deliverables)
    
-    - [3. Content Architecture / Work Breakdown](#3-content-architecture--work-breakdown)
+    - [3. Content Architecture](#3-content-architecture)
     
-      - [Satirical Stories Outlines/Brief Ideas](#satirical-stories-outlinesbrief-ideas)
+      - [Satirical Stories Outlines and Brief Ideas](#satirical-stories-outlines-and-brief-ideas)
     
-      - [Earnest Stories Outlines/Brief Ideas](#earnest-stories-outlinesbrief-ideas)
+      - [Earnest Stories Outlines and Brief Ideas](#earnest-stories-outlines-and-brief-ideas)
     
       - [Culminating Epilogue](#culminating-epilogue)
      
@@ -105,7 +105,7 @@ I also conducted subject matter research and annotated an additional 10 sources 
 | Earnest Story 5 — Pastor | Examine the role of religious leaders in responding to a community tragedy  | *Sandy Hook* Josh Kovner Reporting David Cullen \- Cassie Bernall coverage |
 | Culminating Epilogue | Bring together the perspectives established throughout the collection while emphasizing the continuing and recurring nature of school shootings | All relevant sources Contemporary reporting on the Alex Jones trial |
 
-### Satirical Stories - Outlines and Brief Ideas
+### Satirical Stories Outlines and Brief Ideas
 
 #### Story 1 — Gun Store
 
@@ -150,7 +150,7 @@ I also conducted subject matter research and annotated an additional 10 sources 
 - Explore the problem of assigning a monetary value to a human life.  
 - Examine the absurdity of calculating damages in the context of an event of enormous historical and human significance.
 
-### Earnest Stories - Outlines Brief Ideas
+### Earnest Stories Outlines and Brief Ideas
 
 #### Story 1 — Reporter
 
