@@ -1,7 +1,5 @@
 # Table of Contents
 
-# Table of Contents
-
 - [Graduate Capstone Project Plan](#graduate-capstone-project-plan)
 
   - [Portfolio Artifact Outline](#portfolio-artifact-outline)
