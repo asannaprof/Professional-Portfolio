@@ -6,39 +6,39 @@
 
 [1\. Project Overview](#1.-project-overview)
 
-[Purpose](#purpose)
+  [Purpose](#purpose)
 
 [2\. **Requirements and Deliverables**](#2.-requirements-and-deliverables)
 
 [3\. **Content Architecture and Work Breakdown**](#3.-content-architecture-and-work-breakdown)
 
-[Satirical Stories \- Outlines/Brief Ideas](#satirical-stories---outlines/brief-ideas)
+  [Satirical Stories \- Outlines/Brief Ideas](#satirical-stories---outlines/brief-ideas)
 
-[Earnest Stories \- Outlines/Brief Ideas](#earnest-stories---outlines/brief-ideas)
+  [Earnest Stories \- Outlines/Brief Ideas](#earnest-stories---outlines/brief-ideas)
 
-[Culminating Epilogue](#culminating-epilogue)
+  [Culminating Epilogue](#culminating-epilogue)
 
 [4\. Research Plan](#4.-research-plan)
 
-[Primary Historical Research](#primary-historical-research)
+  [Primary Historical Research](#primary-historical-research)
 
-[Literary Research / Models of Writing Style](#literary-research-/-models-of-writing-style)
+  [Literary Research / Models of Writing Style](#literary-research-/-models-of-writing-style)
 
 [5\. 16-Week Production Schedule](#5.-16-week-production-schedule)
 
 [6\. Skills Demonstrated](#6.-skills-demonstrated)
 
-[Requirements Analysis](#requirements-analysis)
+  [Requirements Analysis](#requirements-analysis)
 
-[Project Scoping](#project-scoping)
+  [Project Scoping](#project-scoping)
 
-[Information Architecture](#information-architecture)
+  [Information Architecture](#information-architecture)
 
-[Research Planning](#research-planning)
+  [Research Planning](#research-planning)
 
-[Workflow Design](#workflow-design)
+  [Workflow Design](#workflow-design)
 
-[Iterative Review & Revision](#iterative-review-&-revision)
+  [Iterative Review & Revision](#iterative-review-&-revision)
 
 # 
 
