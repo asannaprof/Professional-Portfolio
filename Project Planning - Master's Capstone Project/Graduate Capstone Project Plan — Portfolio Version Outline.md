@@ -14,9 +14,9 @@
    
     - [3. Content Architecture / Work Breakdown](#3-content-architecture--work-breakdown)
     
-      - [Satirical Stories — Outlines/Brief Ideas](#satirical-stories--outlinesbrief-ideas)
+      - [Satirical Stories Outlines/Brief Ideas](#satirical-stories-outlinesbrief-ideas)
     
-      - [Earnest Stories — Outlines/Brief Ideas](#earnest-stories--outlinesbrief-ideas)
+      - [Earnest Stories Outlines/Brief Ideas](#earnest-stories-outlinesbrief-ideas)
     
       - [Culminating Epilogue](#culminating-epilogue)
      
@@ -24,7 +24,7 @@
   
       - [Primary Historical Research](#primary-historical-research)
     
-      - [Literary Research / Models of Writing Style](#literary-research--models-of-writing-style)
+      - [Literary Research and Models of Writing Style](#literary-research-and-models-of-writing-style)
   
     - [5. 16-Week Production Schedule](#5-16-week-production-schedule)
   
