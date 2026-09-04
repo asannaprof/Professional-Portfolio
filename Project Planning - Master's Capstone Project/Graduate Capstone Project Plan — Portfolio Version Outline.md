@@ -1,44 +1,44 @@
 # Table of Contents
 
-[**Graduate Capstone Project Plan	2**](#graduate-capstone-project-plan)
+[**Graduate Capstone Project Plan**](#graduate-capstone-project-plan)
 
-[Portfolio Artifact Outline	2](#portfolio-artifact-outline)
+[Portfolio Artifact Outline](#portfolio-artifact-outline)
 
-[1\. Project Overview	2](#1.-project-overview)
+[1\. Project Overview](#1.-project-overview)
 
-[Purpose	2](#purpose)
+[Purpose](#purpose)
 
-[2\. Requirements & Deliverables	3](#2.-requirements-&-deliverables)
+[2\. **Requirements and Deliverables**](#2.-requirements-and-deliverables)
 
-[3\. Content Architecture / Work Breakdown	5](#3.-content-architecture-/-work-breakdown)
+[3\. **Content Architecture and Work Breakdown**](#3.-content-architecture-and-work-breakdown)
 
-[Satirical Stories \- Outlines/Brief Ideas	6](#satirical-stories---outlines/brief-ideas)
+[Satirical Stories \- Outlines/Brief Ideas](#satirical-stories---outlines/brief-ideas)
 
-[Earnest Stories \- Outlines/Brief Ideas	7](#earnest-stories---outlines/brief-ideas)
+[Earnest Stories \- Outlines/Brief Ideas](#earnest-stories---outlines/brief-ideas)
 
-[Culminating Epilogue	8](#culminating-epilogue)
+[Culminating Epilogue](#culminating-epilogue)
 
-[4\. Research Plan	9](#4.-research-plan)
+[4\. Research Plan](#4.-research-plan)
 
-[Primary Historical Research	9](#primary-historical-research)
+[Primary Historical Research](#primary-historical-research)
 
-[Literary Research / Models of Writing Style	9](#literary-research-/-models-of-writing-style)
+[Literary Research / Models of Writing Style](#literary-research-/-models-of-writing-style)
 
-[5\. 16-Week Production Schedule	11](#5.-16-week-production-schedule)
+[5\. 16-Week Production Schedule](#5.-16-week-production-schedule)
 
-[6\. Skills Demonstrated	13](#6.-skills-demonstrated)
+[6\. Skills Demonstrated](#6.-skills-demonstrated)
 
-[Requirements Analysis	13](#requirements-analysis)
+[Requirements Analysis](#requirements-analysis)
 
-[Project Scoping	13](#project-scoping)
+[Project Scoping](#project-scoping)
 
-[Information Architecture	13](#information-architecture)
+[Information Architecture](#information-architecture)
 
-[Research Planning	13](#research-planning)
+[Research Planning](#research-planning)
 
-[Workflow Design	14](#workflow-design)
+[Workflow Design](#workflow-design)
 
-[Iterative Review & Revision	14](#iterative-review-&-revision)
+[Iterative Review & Revision](#iterative-review-&-revision)
 
 # 
 
