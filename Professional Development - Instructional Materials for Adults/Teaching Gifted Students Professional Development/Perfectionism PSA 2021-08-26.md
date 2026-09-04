@@ -9,12 +9,9 @@
 **Skills**: Audience analysis, content development, information gathering and organization, editing, visual design
 
 # Recognizing and Helping Perfectionists
+## Working with Gifted Students
 
-## *Working with Gifted Students*
-
-## *A Guide for Teachers and Parents*
-
-![][image1]
+## A Guide for Teachers and Parents
 
 **Alex Sanna**
 
