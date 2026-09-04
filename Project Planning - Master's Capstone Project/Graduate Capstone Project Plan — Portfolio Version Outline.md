@@ -105,7 +105,7 @@ I also conducted subject matter research and annotated an additional 10 sources 
 | Earnest Story 5 — Pastor | Examine the role of religious leaders in responding to a community tragedy  | *Sandy Hook* Josh Kovner Reporting David Cullen \- Cassie Bernall coverage |
 | Culminating Epilogue | Bring together the perspectives established throughout the collection while emphasizing the continuing and recurring nature of school shootings | All relevant sources Contemporary reporting on the Alex Jones trial |
 
-### Satirical Stories \- Outlines/Brief Ideas
+### Satirical Stories - Outlines and Brief Ideas
 
 #### Story 1 — Gun Store
 
@@ -150,7 +150,7 @@ I also conducted subject matter research and annotated an additional 10 sources 
 - Explore the problem of assigning a monetary value to a human life.  
 - Examine the absurdity of calculating damages in the context of an event of enormous historical and human significance.
 
-### Earnest Stories \- Outlines/Brief Ideas
+### Earnest Stories - Outlines Brief Ideas
 
 #### Story 1 — Reporter
 
