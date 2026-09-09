@@ -48,7 +48,11 @@ Press “Enter” on your keyboard to begin a new line, then center the text on 
 
 | Capitalize | Do not Capitalize |
 | :---- | :---- |
-| First and Last word of the title Nouns & Verbs Adjectives & Adverbs Pronouns | Articles (a, an, the) Conjunctions Prepositions |
+| First and Last word of the title 
+Nouns & Verbs 
+Adjectives & Adverbs 
+Pronouns | Articles (a, an, the) 
+Conjunctions Prepositions |
 
 Even though it appears early in your paper, it should be the last thing you come up with. Don’t get hung up on creating a title.
 
