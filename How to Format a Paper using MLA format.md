@@ -30,6 +30,8 @@ The MLA header needs four pieces of information:
 3. Class  
 4. Due Date (Month Day, Year)
 
+<img width="252" height="211" alt="MLA Heading" src="https://github.com/user-attachments/assets/5e0c22e0-5973-4e52-97a8-d580033fd0ce" />
+
 This header is the first piece of writing in your paper, and it goes in the body of the document. **It does not go in the header section of the document; we will take care of that step later.**
 
 ## Title of Paper
@@ -38,7 +40,7 @@ The title of your paper should be short and clear; for our purposes, aim for bet
 
 Press “Enter” on your keyboard to begin a new line, then center the text on the page.
 
-![][image1]
+<img width="1470" height="445" alt="Center Align Title" src="https://github.com/user-attachments/assets/f3ed6f85-4d4a-404c-b7e4-d2d07ff74af7" />
 
 ### 
 
@@ -56,17 +58,22 @@ Double spacing a paper makes it easier to read and allows teachers to write note
 
 Once your paper is written:
 
-1. Press the “Ctrl” \+ “A” keys on your keyboard at the same time. This will select all the text in your document.  
-2. Navigate to the line spacing option on the toolbar. Select “2” from the line spacing options  
+1. Press the “Ctrl” \+ “A” keys on your keyboard at the same time. This will select all the text in your document.
+
+<img width="549" height="617" alt="Ctrl + A" src="https://github.com/user-attachments/assets/0564d664-2225-4d25-a3d2-615f7cc85911" />
+
+3. Navigate to the line spacing option on the toolbar. Select “2” from the line spacing options  
    1. Note: Make sure you are in the “Home” tab of the menu. You will also need to click the ![][image2] button to show the line spacing options.
 
-![][image3]
+<img width="1470" height="610" alt="Double Space Text" src="https://github.com/user-attachments/assets/ccfee312-d3d0-4bda-b3c9-a8f0f3206f22" />
 
 All text should be evenly double spaced, with no additional blank space between paragraphs.
 
 ### Indenting Each Paragraph
 
 Each new paragraph needs to be indented by one “Tab” press. *Sometimes, teachers will say to indent each paragraph by pressing the space bar five times, but this is incorrect.* 
+
+<img width="579" height="572" alt="Tab" src="https://github.com/user-attachments/assets/e90a05b0-72be-4c8d-a4fd-8f7c7f628429" />
 
 Move your cursor to the start of each paragraph and press Tab. It is good practice to get in the habit of pressing Tab whenever you start new paragraphs, and Word will learn this behavior and automatically indent each new paragraph after the first few.
 
@@ -75,11 +82,11 @@ Alternatively, you can use the Ruler function at the top of the document to inde
 1. Select “View” from the top toolbar.  
 2. Then select the “Ruler” option
 
-![][image4]
+<img width="1051" height="189" alt="View Ruler" src="https://github.com/user-attachments/assets/4214e175-d919-41e2-ad59-ddaf8361ce05" />
 
 3. Use your mouse to select all your body paragraphs. Then, click and drag the “First Line Indent” arrow to the “0.50” inch point on the ruler.
 
-![][image5]
+<img width="1470" height="730" alt="First Line Indent" src="https://github.com/user-attachments/assets/247fb3f2-e576-4d68-bdb3-cb9589fa1c46" />
 
 ### 
 
@@ -93,7 +100,7 @@ To verify your margins:
 2. Select the “Margins” option; it’s the first icon in the row  
 3. Confirm that “Normal” (1 inch on all sides) is selected
 
-![][image6]
+<img width="1470" height="694" alt="Check Margins" src="https://github.com/user-attachments/assets/a1af3ac7-6c68-4261-805f-85e363d28b4f" />
 
 ### 
 
@@ -105,12 +112,12 @@ Each page should be marked with your last name and the Page Number in the top ri
 2. Select the “Page Numbers” drop down menu.  
 3. Select the 3rd option. This will put the page number at the top right corner of every page. 
 
-![][image7]
+<img width="1470" height="772" alt="Insert Page Numbers" src="https://github.com/user-attachments/assets/16735426-dd33-4a61-8f90-3b42d298f372" />
 
 4. Double-click the page number. Move your cursor to the left side of the number, then type your last name.  
    1. Make sure the font of your name matches the rest of your document.
 
-![][image8]
+<img width="917" height="339" alt="Page Number in Header" src="https://github.com/user-attachments/assets/02c47456-ebfa-46f1-be09-ca5d1c9f64ad" />
 
 Your last name and page number should now appear in the upper-right corner of every page.
 
