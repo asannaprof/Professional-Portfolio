@@ -27,7 +27,7 @@ The items in this folder were created to help students understand and complete a
 The items in this folder were created as supplements to professional development sessions I led for colleagues. They demonstrate my competencies with Microsoft Office tools like Word and PowerPoint, along with adult learning principles and instructional facilitation.
 
 **Key Skills Demonstrated:**
-- Microsoft Office proficiency (Word, PowerPoint)
+- Microsoft Office proficiency (Word, PowerPoint, Visio)
 - Adult learning principles
 - Professional facilitation
 - Training material development
