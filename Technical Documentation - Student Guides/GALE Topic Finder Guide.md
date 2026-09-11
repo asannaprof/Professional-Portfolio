@@ -109,10 +109,9 @@ Experiment with several different document types. Examples include:
 - Magazines  
 - Biographies
 
-Filtering by document type can help you locate sources that best fit your assignment.  
----
+Filtering by document type can help you locate sources that best fit your assignment.
 
-# 
+---
 
 # Optional Feature \- Wheel View
 
@@ -122,10 +121,9 @@ The **Wheel** view organizes related concepts in a circular hierarchy, allowing 
 <img width="670" height="700" alt="Wheel View" src="https://github.com/user-attachments/assets/edb6f391-79ec-4180-bf14-22fa88f878e4" />
 
 
-Try switching between both views and see which version you prefer.  
----
+Try switching between both views and see which version you prefer.
 
-## 
+---
 
 ## Reflection
 
