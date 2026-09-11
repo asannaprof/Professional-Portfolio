@@ -41,13 +41,15 @@ Select a topic to research. Write your topic on the lines below
 Navigate to the Hoover Library website and open the **GALE Virtual Library** database.
 
 Once the database loads, you should see the GALE home page with the search box.  
-![][image1]  
+<img width="795" height="445" alt="GALE - Home Screen" src="https://github.com/user-attachments/assets/59cbba1f-04f5-463f-b5ae-2bfc5700be93" />
+
 ---
 
 # Step 2 \- Perform a Basic Search
 
 Enter your research topic exactly as you normally would in Google. At this stage, your search should remain fairly broad. The following example is for “Influenza.”  
-![][image2]  
+<img width="975" height="240" alt="Initial Search - Influenza" src="https://github.com/user-attachments/assets/0fb063cf-c580-4ee7-ab9f-b7acdba48e83" />
+
 ---
 
 # Step 3 \- Open Topic Finder
@@ -56,27 +58,12 @@ After your search results appear:
 
 1. Locate **Topic Finder** on the right side of the page.  
 2. Select **Start Topic Finder**.
-
-![][image3]
+<img width="975" height="240" alt="Screenshot 2026-09-09 at 12 08 54 PM copy" src="https://github.com/user-attachments/assets/39a359c0-8e1c-479a-8f18-47c2fa59c219" />
 
 Topic Finder automatically analyzes your search results and identifies related concepts that frequently appear together. The larger a tile appears, the more frequently it occurs with your search term.
 
 Tiles closer to **red** generally represent stronger relationships.  
-![][image4]
-
----
-
-## Checkpoint Activity 1
-
-### Question 1
-
-Which terms appear in **red/orange**?
-
----
-
-### Question 2
-
-Which terms appear in **green/yellow**?
+<img width="960" height="468" alt="Topic Finder - Tiles" src="https://github.com/user-attachments/assets/d87d6acf-cd84-480a-8242-a31675ab907b" />
 
 ---
 
@@ -89,34 +76,12 @@ For example:
 The original search for **Influenza** produced well over one thousand results.
 
 Using the **Topic Finder**, we can reduce those results to 36 closely related articles.  
-![][image5]
+<img width="1045" height="384" alt="Health" src="https://github.com/user-attachments/assets/3994ac3a-f8f4-478b-996f-e71744375f8a" />
 
 Selecting **Swine Influenza** immediately narrows the search to a much smaller and more focused collection of sources.
 
-![][image6]  
+<img width="1018" height="409" alt="Swine Flu" src="https://github.com/user-attachments/assets/5fefac9d-a658-4340-8508-fa7b5e1ca611" />
 ---
-
-## Activity 2
-
-### Question 3
-
-Did Topic Finder suggest any ideas or related topics that you had not previously considered?
-
----
-
----
-
----
-
-### Question 4
-
-Choose one specific topic. How many sources did GALE find?
-
----
-
----
-
-# 
 
 # Step 4 \- Explore Related Topics
 
@@ -146,14 +111,6 @@ Experiment with several different document types. Examples include:
 Filtering by document type can help you locate sources that best fit your assignment.  
 ---
 
-## Activity 3
-
-### Question 5
-
-Which document type produced the largest number of results?
-
----
-
 # 
 
 # Optional Feature \- Wheel View
@@ -161,8 +118,9 @@ Which document type produced the largest number of results?
 Topic Finder offers two different visualizations, Tile View and Wheel View, but they display the same information.
 
 The **Wheel** view organizes related concepts in a circular hierarchy, allowing you to move from broad ideas toward increasingly specific topics.
+<img width="670" height="700" alt="Wheel View" src="https://github.com/user-attachments/assets/edb6f391-79ec-4180-bf14-22fa88f878e4" />
 
-![][image7]  
+
 Try switching between both views and see which version you prefer.  
 ---
 
@@ -172,21 +130,7 @@ Try switching between both views and see which version you prefer.
 
 Which Topic Finder feature did you find most helpful?
 
----
-
----
-
----
-
 How did your research topic become more focused during this activity?
-
----
-
----
-
----
-
----
 
 # Final Checklist
 
