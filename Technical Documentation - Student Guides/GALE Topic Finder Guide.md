@@ -91,7 +91,8 @@ Notice how the list of results changes as you choose different concepts.
 
 Broad topics generally produce larger collections of sources.
 
-Specific topics usually return fewer, but more relevant, results.  
+Specific topics usually return fewer, but more relevant, results.
+
 ---
 
 # Step 5 \- Filter by Document Type
