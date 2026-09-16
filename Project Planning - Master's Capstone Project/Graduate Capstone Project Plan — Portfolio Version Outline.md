@@ -87,7 +87,7 @@ I also conducted subject matter research and annotated an additional 10 sources 
 | Annotated Bibliography | Formal academic assessment of the sources and books I annotated during the course of completing the project. Assessment of author credibility, research methods, writing style, etc. Also includes a description of the utility for my final project. |  | Every 2 weeks submitted by midnight on Monday Any sources compiled and reviewed as part of the research process |
 | Novel Assessment | Academic report and review of the novels I read as part of the writing process.  Reflections assessed style, content, and utility of the selected novels \~1500-2000 words |  | 1 Novel assessment every 2 weeks submitted by midnight on Wednesday |
 
-## 3\. Content Architecture / Work Breakdown
+## 3\. Content Architecture
 
 | Component | Purpose | Research |
 | :---- | :---- | :---- |
