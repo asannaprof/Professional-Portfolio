@@ -58,7 +58,7 @@ After your search results appear:
 
 1. Locate **Topic Finder** on the right side of the page.  
 2. Select **Start Topic Finder**.
-<img width="975" height="240" alt="Screenshot 2026-09-09 at 12 08 54 PM copy" src="https://github.com/user-attachments/assets/39a359c0-8e1c-479a-8f18-47c2fa59c219" />
+<img width="975" height="240" alt="Select Start Topic Finder" src="https://github.com/user-attachments/assets/39a359c0-8e1c-479a-8f18-47c2fa59c219" />
 
 Topic Finder automatically analyzes your search results and identifies related concepts that frequently appear together. The larger a tile appears, the more frequently it occurs with your search term.
 
