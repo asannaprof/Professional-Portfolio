@@ -34,7 +34,7 @@ The items in this folder were created as supplements to professional development
 
 ---
 
-### [Project Planning - Master's Capstone Project]([Project Planning - Master's Capstone Project](https://github.com/asannaprof/Professional-Portfolio/tree/main/Project%20Planning%20-%20Master's%20Capstone%20Project))
+### [Project Planning - Master's Capstone Project](https://github.com/asannaprof/Professional-Portfolio/tree/main/Project%20Planning%20-%20Master's%20Capstone%20Project))
 
 The materials in this folder document the development of my master's capstone project at McDaniel College. The project required me to transform a complex, open-ended assignment into a structured research effort, demonstrating advanced planning, organization, and project management skills.
 
