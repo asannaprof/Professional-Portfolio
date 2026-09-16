@@ -10,7 +10,7 @@ This repository contains a curated collection of work samples demonstrating my p
 
 ## Folder Contents
 
-### [Technical Documentation - Student Guides and Materials] (https://github.com/asannaprof/Professional-Portfolio/tree/main/Technical%20Documentation%20-%20Student%20Guides)
+### [Technical Documentation - Student Guides and Materials](https://github.com/asannaprof/Professional-Portfolio/tree/main/Technical%20Documentation%20-%20Student%20Guides)
 
 The items in this folder were created to help students understand and complete academic tasks independently. These materials translate procedures, standards, and complex concepts into clear instructional guides that facilitate self-directed learning and skill development.
 
@@ -22,7 +22,7 @@ The items in this folder were created to help students understand and complete a
 
 ---
 
-### [Professional Development - Instructional Materials for Adults] (https://github.com/asannaprof/Professional-Portfolio/tree/main/Professional%20Development%20-%20Instructional%20Materials%20for%20Adults)
+### [Professional Development - Instructional Materials for Adults](https://github.com/asannaprof/Professional-Portfolio/tree/main/Professional%20Development%20-%20Instructional%20Materials%20for%20Adults)
 
 The items in this folder were created as supplements to professional development sessions I led for colleagues. They demonstrate my competencies with Microsoft Office tools like Word and PowerPoint, along with adult learning principles and instructional facilitation.
 
@@ -34,7 +34,7 @@ The items in this folder were created as supplements to professional development
 
 ---
 
-### [Project Planning - Master's Capstone Project] (Project Planning - Master's Capstone Project)
+### [Project Planning - Master's Capstone Project]([Project Planning - Master's Capstone Project](https://github.com/asannaprof/Professional-Portfolio/tree/main/Project%20Planning%20-%20Master's%20Capstone%20Project))
 
 The materials in this folder document the development of my master's capstone project at McDaniel College. The project required me to transform a complex, open-ended assignment into a structured research effort, demonstrating advanced planning, organization, and project management skills.
 
