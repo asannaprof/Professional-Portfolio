@@ -16,18 +16,17 @@ This folder includes instructional materials created to support adult learning i
 
 ## How to Use These Materials
 
-1. **Review individual materials** - Each document stands alone as a supplement to a specific training session
-2. **Follow the organization** - Materials are organized by topic/session for easy navigation
-3. **Adapt as needed** - These templates and materials can serve as models for your own professional development content
+- **Review individual materials** - Each document stands alone as a supplement to a specific training session
+- **Follow the organization** - Materials are organized by topic/session for easy navigation
 
 ## Document Types
 
-This folder may contain:
+This folder contains:
 - **Facilitation Guides** - Outlines and speaker notes for training delivery
-- **Participant Handouts** - Accompanying materials for trainees to reference during and after sessions
+- **Participant Handouts** - Accompanying materials for colleagues to reference during and after sessions
 - **Visual Aids** - PowerPoint presentations, diagrams, and flowcharts created in Visio
 - **Reference Documents** - Supplementary information, templates, and resources
-- **Job Aids** - Quick-reference guides and checklists for on-the-job application
+- **Job Aids** - Quick-reference guides and checklists
 
 ---
 
